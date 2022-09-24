@@ -44,7 +44,7 @@
 
 ### 참고
 - 도시재생뉴딜사업<br>
-[web site] (https://www.city.go.kr/portal/policyInfo/urban/contents04/link.do)
+[web site] (https://www.city.go.kr/portal/policyInfo/urban/contents04/link.do)<br>
 [web site] (https://www.korea.kr/special/policyCurationView.do?newsId=148863980)
 - 개별건출물 데이터를 활용한 대구광역시 빈집 발생의 공간적 분포 및 발생요인 분석<br>
 (https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201819352297601&dbt=NART)<br>
