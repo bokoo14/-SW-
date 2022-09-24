@@ -1,0 +1,133 @@
+@font-face {
+  font-family: 'LeferiPoint-WhiteObliqueA';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/LeferiPoint-WhiteObliqueA.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'LeferiPoint-WhiteObliqueA', Arial, Helvetica, sans-serif;
+}
+
+body {
+  margin: 0;
+  min-width: 992px;
+  font-family: "Helvetica";
+
+  background: white;
+}
+
+/* navbar */
+.navbar{
+  height: 60px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.navbar .logo{
+  line-height: 60px;
+}
+
+.navbar .logo img{
+  vertical-align: middle;
+}
+/*------------------------------*/
+.navbar .menu{
+  float: right;
+  padding: 0;
+  margin: 0;
+}
+
+.navbar .menu li{
+  float: left;
+  list-style: none;
+  margin-right: 30px;
+  line-height: 60px;
+}
+
+.menu li a{
+  text-decoration: none;
+  color: #545454;
+  font-family: Heivetica;
+  font-size: 13px;
+  font-weight: bold;
+  margin-left: 30px;
+}
+
+/* hero header */
+.hero-header{
+  height: 450px;
+  background-image: url("../images/house.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+/* products */
+.products {
+  display:flex;
+  align-items: center;
+  justify-content: center;
+
+  font-family: Heivetica;
+  font-size: 24px;
+  color: #545454;
+  font-weight: bold;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  text-align: center;
+}
+
+.productdiv{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  /* width: 100vw; */
+  /* margin-left: auto;
+  margin-right: auto; */
+}
+
+
+
+.products .productblock {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  display: block;
+  float: left;
+  width: 300px;
+  text-align: center;
+  text-decoration: none;
+  color: #545454;
+  font-family: Heivetica;
+  font-size: 16px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 80px;
+}
+
+.products .name{
+  padding-top: 20px;
+  padding-bottom: 4px;
+}
+
+
+/* footer */
+.clearfix{
+  clear: both;
+}
+
+.footer{
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 80px;
+}
+
+.footer a{
+  margin-left: 10px;
+  margin-right: 10px;
+}

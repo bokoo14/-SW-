@@ -1,0 +1,34 @@
+@font-face {
+  font-family: 'LeferiPoint-WhiteObliqueA';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/LeferiPoint-WhiteObliqueA.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'LeferiPoint-WhiteObliqueA', Arial, Helvetica, sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: #1BBC9B;
+}
+
+.login-form {
+}
+
+.text-field {
+  font-size: 14px;
+}
+
+.submit-btn {
+  font-size: 14px;
+}
+
+.links {
+}
+
+.links a {
+  font-size: 12px;
+}
