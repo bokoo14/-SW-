@@ -63,7 +63,8 @@
 
 ### 프로젝트에 활용된 기술
 프론트엔드(js, css, html), 프레임워크(부트스트랩)
-
+![front](https://user-images.githubusercontent.com/97583162/192095962-06466637-c594-414e-9085-7833b386f863.png)
+![bootstrap](https://user-images.githubusercontent.com/97583162/192095954-332f7bdb-1467-4264-b5f5-fe53661e0c87.png)
 --------------------------------------------------------
 ## 시연 연상
 * 유튜브 링크
