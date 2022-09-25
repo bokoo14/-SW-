@@ -73,23 +73,26 @@
 ## 시연 연상
 * 유튜브 링크
 https://www.youtube.com/watch?v=mdmWYMltqec
+<br>
 
-- Time Stamp
-00:00 대구애(愛) - IN THE DEAGU 플랫폼 소개 
-00:48 주제 
-00:58 프로젝트 목적 
-01:21 플랫폼 용도 
-01:42 기대 효과 
-02:15 기존과의 차별점 
-02:34 웹사이트 소개 
-03:06 프로젝트 설명 
-03:25 빈집보기 
-03:46 빈집 신청하기 
-04:01 공지사항 
-04:20 회원가입 
+- Time Stamp<br>
+00:00 대구애(愛) - IN THE DEAGU 플랫폼 소개 <br>
+00:48 주제 <br>
+00:58 프로젝트 목적 <br>
+01:21 플랫폼 용도 <br>
+01:42 기대 효과 <br>
+02:15 기존과의 차별점 <br>
+02:34 웹사이트 소개 <br>
+03:06 프로젝트 설명 <br>
+03:25 빈집보기 <br>
+03:46 빈집 신청하기 <br>
+04:01 공지사항 <br>
+04:20 회원가입 <br>
 <br><br>
-- Git Hub
-https://github.com/bokoo14/SW-hackathon
 
-- 웹사이트
-https://momm88.github.io/SW-hackathon/
+- Git Hub<br>
+https://github.com/bokoo14/SW-hackathon
+<br><br>
+
+- 웹사이트<br>
+https://momm88.github.io/SW-hackathon/<br>
