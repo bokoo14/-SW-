@@ -73,7 +73,6 @@
 ## 시연 연상
 * 유튜브 링크
 https://www.youtube.com/watch?v=mdmWYMltqec
-<br>
 
 - Time Stamp<br>
 00:00 대구애(愛) - IN THE DEAGU 플랫폼 소개<br>
