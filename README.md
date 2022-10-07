@@ -94,4 +94,4 @@ https://github.com/bokoo14/SW-hackathon
 <br><br>
 
 - 웹사이트<br>
-https://momm88.github.io/SW-hackathon/<br>
+https://momm88.github.io/IN_THE_DEAGU/<br>
